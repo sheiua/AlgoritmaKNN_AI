@@ -1,1 +1,1 @@
-# AlgoritmaKNN_AI
+# LinearRegression_AlgoritmaKNN_AI
